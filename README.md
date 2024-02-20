@@ -20,9 +20,9 @@ The application should have concrete implementations of PaymentMode for GCash, M
 
 Sample output:
 
-//Order item is keyboard.
-//Unit price is 300.0
-//Quantity is 10
+<br>Order item is keyboard.
+<br>Unit price is 300.0
+<br>Quantity is 10
 
 
 Payment order details  if GCash
