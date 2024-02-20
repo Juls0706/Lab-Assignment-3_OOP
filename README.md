@@ -19,18 +19,16 @@ The application should have concrete implementations of PaymentMode for GCash, M
 
 
 Sample output:
+
 <br>Order item is keyboard.
 <br>Unit price is 300.0
 <br>Quantity is 10
-
 <br>Payment order details  if GCash
 <br>Discount rate is 0.0
 <br>Payment amount is 3000.0
-
 <br>Payment order details if Maya
 <br>Discount rate is 0.05
 <br>Payment amount is 2850.0
-
 <br>Payment order details if ShopeePay
 <br>Discount rate is 0.10
 <br>Payment amount is 2700.0
