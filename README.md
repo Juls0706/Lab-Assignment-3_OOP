@@ -10,9 +10,9 @@ Specific requirements:
 * The application should implement a PaymentMode interface that defines a method for calculating the discount offered by the payment method.
   
 The application should have concrete implementations of PaymentMode for GCash, Maya, ShopeePay:
-    GCash: Does not offer any discount (discount rate = 0.0)
-    Maya: Offers a 5% discount (discount rate = 0.05)
-    ShopeePay: Offers a 10% discount
+  - GCash: Does not offer any discount (discount rate = 0.0)
+  - Maya: Offers a 5% discount (discount rate = 0.05)
+  - ShopeePay: Offers a 10% discount
   
 * The application should allow users to set the payment method for an order and calculate the total amount, storing it in the totalAmount attribute.
 
