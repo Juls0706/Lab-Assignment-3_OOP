@@ -18,7 +18,7 @@ The application should have concrete implementations of PaymentMode for GCash, M
 * The application should allow users to set the payment method for an order and calculate the total amount, storing it in the totalAmount attribute.
 
 
-Sample output:
+Sample output: <br>
 Order item is keyboard.
 <br>Unit price is 300.0
 <br>Quantity is 10
